@@ -1,0 +1,23 @@
+.alpha {
+  text-align: center;
+}
+
+.beta {
+  font-style: helvetica;
+}
+
+.charly {
+  color: white;
+}
+
+.delta {
+  font-weight: bold;
+}
+
+.edward {
+  font-size: 18px;
+}
+
+.freddie {
+  background-image: image(./resources/images/flatiron.png);
+}
