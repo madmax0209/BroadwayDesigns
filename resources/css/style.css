@@ -3,7 +3,7 @@
 }
 
 .beta {
-  font-style: helvetica;
+  font-family: helvetica;
 }
 
 .charly {
@@ -20,4 +20,12 @@
 
 .freddie {
   background-image: image(./resources/images/flatiron.png);
+}
+
+.gertrude {
+  position: relative;
+left: 100%;
+-webkit-transform: translateX(-50%);
+-ms-transform: translateX(-50%);
+transform: translateX(-50%);
 }
