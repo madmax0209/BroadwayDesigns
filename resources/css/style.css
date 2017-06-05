@@ -10,9 +10,6 @@
   color: white;
 }
 
-.delta {
-  font-weight: bold;
-}
 
 .edward {
   font-size: 18px;
@@ -23,9 +20,7 @@
 }
 
 .gertrude {
-  position: relative;
-left: 100%;
--webkit-transform: translateX(-50%);
--ms-transform: translateX(-50%);
-transform: translateX(-50%);
+  font-size: 11px;
+  color: white;
+  font-family: Helvetica;
 }
